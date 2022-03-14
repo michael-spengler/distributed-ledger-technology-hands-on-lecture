@@ -37,10 +37,12 @@
 1. Consider the content of previous tasks and the content of Mia's Bachelor Thesis  
 2. What are the conclusions (synthesis) for you when it comes to strategy consulting for banks?
 
-### Distributed Ledger / Blockchain Marketing
+### Optional: Distributed Ledger / Blockchain Marketing
 #### Community Facilitation 
+tbd
 
 #### Elevator Pitch 
+tbd
 
 ### Optional: Review a Decentralized Exchange Platform Approach
 1. Explore how decentralized, hegelsche (thesis, antithesis, synthesis) exchange platforms could be designed  
