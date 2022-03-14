@@ -11,11 +11,13 @@
 ### Design a Decentralized Autonomous Organisation
 1. Use the coins from the previous task as governance tokens  
 2. Trigger an example poll  
-3. To which extend would you compare such an approach with a classical stock corporation?  
+3. To which extend would you compare such a DAO with a classical stock corporation?  
 
 ### Create a Decentralized Volatility Farming Strategy
 1. Understand how exploiting manipulation induced volatility at scale can contribute to a reasonable price stability  
-2. Trigger some backtesting for your strategy  
+2. Trigger some backtesting for your strategy    
+3. Would you consider Decentralized Volatility Farming in the context of strategy consulting for banks? E.g. offering investment vehicles to Decentralized VoFarm Pools for interested, risk aware customers?   
+4. Share your evaluations on Decentralized Volatility Farming in general  
 
 ### Create an Enterprise NFT 
 1. Implement a Smart Contract defining an Enterprise NFT which contains a purchase right for a "physical world" asset of the enterprise - written in [Solidity](https://soliditylang.org/) extending an [ERC721 template](https://wizard.openzeppelin.com/#erc721) using the [Remix IDE](https://remix.ethereum.org/)   
