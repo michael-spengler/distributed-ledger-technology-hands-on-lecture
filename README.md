@@ -5,7 +5,7 @@
 1. Implement a Smart Contract defining a crypto currency with a fixed supply of 2.000.000 coins - written in [Solidity](https://soliditylang.org/) extending an [ERC20 template](https://wizard.openzeppelin.com/) using the [Remix IDE](https://remix.ethereum.org/)  
 2. Deploy the Smart Contract on the Ethereum Blockchain (ropsten test network)  
 3. Transfer some of the coins to your friend  
-4. Create a Liquidity Pool on [uniswap](https://uniswap.org/)  
+4. Create a Liquidity Pool using [uniswap](https://uniswap.org/)  
 5. Swap Tokens  
 
 ### Design a Decentralized Autonomous Organisation
