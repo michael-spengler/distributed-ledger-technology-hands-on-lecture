@@ -10,7 +10,8 @@
 
 ### Design a Decentralized Autonomous Organisation
 1. Use the coins from the previous task as governance tokens  
-2. Trigger an example poll
+2. Trigger an example poll  
+3. To which extend would you compare such an approach with a classical stock corporation?  
 
 ### Create a Decentralized Volatility Farming Strategy
 1. Understand how exploiting manipulation induced volatility at scale can contribute to a reasonable price stability  
