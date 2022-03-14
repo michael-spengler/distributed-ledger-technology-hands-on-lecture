@@ -9,7 +9,7 @@
 5. Swap Tokens  
 
 ### Design a Decentralized Autonomous Organisation
-1. Use the coins from the previous task as governance tokens  
+1. Use the coins from the previous task as governance tokens via a decentralized / distributed App (DApp)     
 2. Trigger an example poll  
 3. To which extend would you compare such a DAO with a classical stock corporation?  
 
