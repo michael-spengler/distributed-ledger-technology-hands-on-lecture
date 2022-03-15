@@ -5,5 +5,11 @@ Its goal is to connect business- & tech- enthusiasts to prototype revolutionary 
 ## Joining The Community 
 Governance Token & DApp under construction...
 
+## Collaboration Spaces
+We consider several online meeting tools like: 
+[Gather Town](https://www.gather.town)    
+[Discord](https://discord.gg/pPqBzETb)   
+[Airmeet](https://www.airmeet.com)
+ 
 ## Upcoming Dates
 tbd... 
