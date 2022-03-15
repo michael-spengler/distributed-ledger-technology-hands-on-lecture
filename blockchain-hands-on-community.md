@@ -6,10 +6,11 @@ Its goal is to connect business- & tech- enthusiasts to prototype revolutionary 
 Governance Token & DApp under construction...
 
 ## Collaboration Spaces
-We consider several online meeting tools like: 
+One of the first polls will be related to which online meeting space shall be used - options:   
 [Gather Town](https://www.gather.town)    
 [Discord](https://discord.gg/pPqBzETb)   
-[Airmeet](https://www.airmeet.com)
+[Airmeet](https://www.airmeet.com)  
+... 
  
 ## Upcoming Dates
 tbd... 
