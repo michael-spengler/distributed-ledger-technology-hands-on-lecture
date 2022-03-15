@@ -53,11 +53,14 @@ After your active participation you will be able to leverage your own creativity
 1. Create a [Business Model Canvas](https://youtu.be/QoAOzMTLP5s) for your favorite Blockchain based project   
 2. Present it and collect feedback    
 
-#### Community Facilitation  
+#### Community Facilitation & Change Management   
 All you need to know about [leadership](https://www.youtube.com/watch?v=fW8amMCVAJQ) :)  
+1. Recap your experiences wrt. community facilitation & [change management](https://www.amazon.com/Fearless-Change-Patterns-Introducing-paperback/dp/0134395255)  
+2. How would you approach things if you were about to introduce a revolutionary new business model within your company?   
 
 #### Elevator Pitch  
-tbd 
+1. Draft an elevator pitch for you favorite Blockchain Project   
+2. Share it and collect feedback  
 
 
 
