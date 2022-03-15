@@ -40,16 +40,24 @@ After your active participation you will be able to leverage your own creativity
 1. Consider the content of previous tasks and the content of Mia's Bachelor Thesis  
 2. What are the conclusions (synthesis) for you when it comes to strategy consulting for banks?
 
-### Optional: Distributed Ledger / Blockchain Marketing
-#### Community Facilitation 
-tbd
-
-#### Elevator Pitch 
-tbd
-
 ### Optional: Review a Decentralized Exchange Platform Approach
 1. Explore how decentralized, hegelsche (thesis, antithesis, synthesis) exchange platforms could be designed  
 2. Share your evaluations on such an approach 
+
+### Optional: DLT Marketing, Education, Consulting
+#### Value Proposition Canvas
+1. Create a [Value Proposition Canvas](https://youtu.be/ReM1uqmVfP0) for your favorite Blockchain based project  
+2. Present it and collect feedback   
+
+#### Business Model Canvas
+1. Create a [Business Model Canvas](https://youtu.be/QoAOzMTLP5s) for your favorite Blockchain based project   
+2. Present it and collect feedback    
+
+#### Community Facilitation  
+All you need to know about [leadership](https://www.youtube.com/watch?v=fW8amMCVAJQ) :)  
+
+#### Elevator Pitch  
+tbd 
 
 
 
