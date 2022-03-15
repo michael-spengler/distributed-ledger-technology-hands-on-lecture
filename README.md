@@ -1,4 +1,6 @@
 # Distributed Ledger Technology Hands On Lecture
+**From theory to practice.** This lecture offers the chance to explore many key use cases of the Blockchain Technology / Distributed Ledger Technology in a hands on fashion.  
+This lecture can empower & inspire you to leverage your own creativity by offering corresponding theoretical and practical frameworks / tools. 
 
 ## Exploration Goals
 ### Create Your Own Currency
