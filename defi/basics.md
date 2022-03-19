@@ -9,7 +9,7 @@ Describe products and services provided by DeFi Protocols
 
 
 ## Banks Leveraging DeFi
-Next to low-brainer approaches like offering crypto consulting and custodial wallets, there seem to be approaches which would rapidly improve the efficiency and fairness in the classical CeFi system.   
+Next to low-brainer approaches like offering crypto consulting and custodial wallets, there seem to be approaches which would rapidly improve the efficiency and fairness in the classical CeFi system   
 
 Describe such approaches by including news like [these](https://www.coindesk.com/business/2021/09/30/societe-generale-applies-for-20m-makerdao-loan-using-bond-token-collateral/) and protocol descriptions like [these](
 https://medium.com/blue-swan-media/what-is-a-cdp-and-how-does-it-benefit-crypto-traders-942765cd02fa)  
