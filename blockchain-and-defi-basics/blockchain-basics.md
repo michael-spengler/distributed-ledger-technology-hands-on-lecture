@@ -13,7 +13,7 @@ Everyone with free internet access can contribute to build the decentralized web
 If things are organized in a [direct democracy](https://democracy.earth/) (the power is rather with the people than with single politicians), there is little till no possibility for making money by being corrupt  
 
 ### No propaganda    
-Assuming propaganda is the intentional concealment of valuable perspectives or even the intentional distribution of fake news, decentralized news platforms - following the Hegel principle of **Thesis, Antithesis, Synthesis** with community based governance - are the new standard, there is little till no possibility of propaganda.
+Assuming propaganda is the intentional concealment of valuable perspectives or even the intentional distribution of fake news, decentralized news platforms - following the Hegel principle of **Thesis, Antithesis, Synthesis** with community based governance - leave little to no possibility of propaganda.  
 
 ### No Fake Democracy
 As [direct democracy](https://democracy.earth/) becomes more and more simple to implement and maintain due to decentralization in general, it will be increasingly difficult to become and stay a dictator.  
