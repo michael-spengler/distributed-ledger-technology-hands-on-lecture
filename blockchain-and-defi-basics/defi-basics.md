@@ -20,5 +20,8 @@ the Gamestop related ["Robin Hood" Trading Halt](https://www.cnbc.com/2021/02/17
 
 Share your thoughts on those topics   
 
-## Total Value Locked (TVL)
+## DeFi Performance Indicators
+### Total Value Locked (TVL)
 To find out the TVL in DeFi protocols on the Ethereum Blockchain check [defipulse.com](https://defipulse.com) or for the technical (api based) exploration check [this issue](https://github.com/ethereum/ethereum-org-website/issues/5715).    
+
+
