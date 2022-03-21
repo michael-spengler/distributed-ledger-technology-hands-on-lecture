@@ -4,14 +4,13 @@
 High probability for fair systems to emerge - du to:    
 
 ### Simple Incentive Engineering  
-It starts with consensys algorithms like Proof of Work (only reasonable as no decentralized Investment asset(s) exist) and Proof of Stake (e.g. coming with ETH 2.0).  
 For smart contract developers it is easy to implement simple and fair incentive systems...  
 
 ### Freedom  
-Everyone with free internet access can contribute to the decentralized web (web3)  
+Everyone with free internet access can contribute to build the decentralized web (web3)   
 
 ### No corruption      
-If things are organized in a [real direct democracy](https://democracy.earth/), there is little till no possibility for making money by being corrupt  
+If things are organized in a [direct democracy](https://democracy.earth/) (the power is rather with the people than with single politicians), there is little till no possibility for making money by being corrupt  
 
 ### No propaganda    
 Assuming propaganda is the intentional concealment of valuable perspectives or even the intentional distribution of fake news, decentralized news platforms - following the Hegel principle of **Thesis, Antithesis, Synthesis** with community based governance - are the new standard, there is little till no possibility of propaganda.
