@@ -1,6 +1,6 @@
 # Decentralized Autonomous Organizations (DAOs)
 
-Within this excurse we explore the evolution of DAO Design - starting from [daostack.io](https://alchemy.daostack.io/#) to [humanity based governance](https://app.proofofhumanity.id/) and to feedback loop based governance. 
+Within this excurse we explore the evolution of [DAO](https://www.youtube.com/watch?v=BK5ypcAFA8A) Design - starting from basic features of the [daostack.io](https://alchemy.daostack.io/#) to [humanity based governance](https://app.proofofhumanity.id/) and to feedback loop based governance. 
 
 ## Coin Based Governance 
 
