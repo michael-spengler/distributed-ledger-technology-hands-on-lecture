@@ -19,3 +19,6 @@ As the DeFi system seems to come with additional challenges like how to deal wit
 the Gamestop related ["Robin Hood" Trading Halt](https://www.cnbc.com/2021/02/17/robinhood-faces-lawsuits-after-gamestop-trading-halt.html) or the [BaFin's Ban on Shortselling Wirecard](https://www.ft.com/content/75a94988-2dc4-4bb1-b65d-e744636504cd) influences DeFi Adoption    
 
 Share your thoughts on those topics   
+
+## Total Value Locked (TVL)
+To find out the TVL in DeFi protocols on the Ethereum Blockchain check [defipulse.com](https://defipulse.com) or for the technical (api based) exploration check [this issue](https://github.com/ethereum/ethereum-org-website/issues/5715).    
