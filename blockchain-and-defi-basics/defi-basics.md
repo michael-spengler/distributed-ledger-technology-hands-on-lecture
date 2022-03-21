@@ -22,6 +22,7 @@ Share your thoughts on those topics
 
 ## DeFi Performance Indicators
 ### Total Value Locked (TVL)
-To find out the TVL in DeFi protocols on the Ethereum Blockchain check [defipulse.com](https://defipulse.com) or for the technical (api based) exploration check [this issue](https://github.com/ethereum/ethereum-org-website/issues/5715).    
+In former times CeFi actors talked about **Assets Under Management** which is nowadays - mainly in the DeFi space - frequently called **Total Value Locked** because those assets / values are "locked" / invested in Smart Contracts / Protocols. It is a pretty valuable indicator as it shows where investors put their money.   
+To explore the TVL in DeFi protocols on the Ethereum Blockchain check [defipulse.com](https://defipulse.com) or for the technical (api based) exploration check [this issue](https://github.com/ethereum/ethereum-org-website/issues/5715).    
 
 
