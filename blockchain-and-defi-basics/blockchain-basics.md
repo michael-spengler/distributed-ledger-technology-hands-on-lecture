@@ -1,7 +1,7 @@
 # Two Key Things to Understand
 
 ## Benefits of Decentralization
-High probability for fair systems to emerge - du to:    
+Decentralization improves the probability for fair systems to emerge - due to:    
 
 ### Freedom  
 Everyone with free internet access can contribute to build the decentralized web (web3)   
