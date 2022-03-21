@@ -16,7 +16,7 @@ If things are organized in a [direct democracy](https://democracy.earth/) (the p
 Assuming propaganda is the intentional concealment of valuable perspectives or even the intentional distribution of fake news, decentralized news platforms - following the Hegel principle of **Thesis, Antithesis, Synthesis** with community based governance - leave little to no possibility of propaganda.  
 
 ### No Fake Democracy
-As [direct democracy](https://democracy.earth/) becomes more and more simple to implement and maintain due to decentralization in general, it will be increasingly difficult to become and stay a dictator.  
+As [direct democracies](https://democracy.earth/) become more and more simple to implement and maintain due to decentralization in general, it will be increasingly difficult to become and stay a dictator.  
 
 
 ## How did this Become Reality?
