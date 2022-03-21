@@ -1,10 +1,7 @@
 # Two Key Things to Understand
 
-## Benefits of No Need For Centralized Institutions
+## Benefits of Decentralization
 High probability for fair systems to emerge - du to:    
-
-### Simple Incentive Engineering  
-For smart contract developers it is easy to implement simple and fair incentive systems...  
 
 ### Freedom  
 Everyone with free internet access can contribute to build the decentralized web (web3)   
@@ -17,6 +14,9 @@ Assuming propaganda is the intentional concealment of valuable perspectives or e
 
 ### No Fake Democracy
 As [direct democracies](https://democracy.earth/) become more and more simple to implement and maintain due to decentralization in general, it will be increasingly difficult to become and stay a dictator or a bunch of corrupt politicians.  
+
+### Simple Incentive Engineering  
+For smart contract developers it is easy to implement simple and fair incentive systems ...  
 
 
 ## How did this Become Reality?
