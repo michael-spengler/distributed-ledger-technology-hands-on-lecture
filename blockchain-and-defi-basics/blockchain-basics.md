@@ -8,10 +8,10 @@ Decentralization improves the probability for fair systems to emerge - due to:
 Everyone with free internet access can contribute to build the decentralized web (web3)   
 
 ### No corruption      
-If things are organized in a [direct democracy](https://democracy.earth/) (the power is rather with the people than with single politicians), there is little till no possibility for making money by being corrupt  
+If things are organized in a [direct democracy](https://democracy.earth/) (the power is rather with the people than with single politicians), there is little till no chance for making money by being corrupt  
 
 ### No propaganda    
-Assuming propaganda is the intentional concealment of valuable perspectives or even the intentional distribution of fake news, decentralized news platforms - following the Hegel principle of **Thesis, Antithesis, Synthesis** with community based governance - leave little to no possibility of propaganda.  
+Assuming propaganda is the intentional concealment of valuable perspectives or even the intentional distribution of fake news, decentralized news platforms - following the Hegel principle of **Thesis, Antithesis, Synthesis** with community based governance - leave little to no chance for propaganda   
 
 ### No Fake Democracy
 As [direct democracies](https://democracy.earth/) become more and more simple to implement and maintain due to decentralization in general, it will be increasingly difficult to become and stay a dictator or a bunch of corrupt politicians.  
