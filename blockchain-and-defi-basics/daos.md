@@ -11,5 +11,9 @@ Check the intro on [Humanity Based Governance](https://www.youtube.com/watch?v=3
 Ensure voters who voted for a decision which was bad, pay. Ensure voters who voted for a decision which was great, earn  
 
 ## Direct Democracy Approaches
-Actively contribute to Debating Clubs to collect ups and downs for approaches like [democracy.earth](https://democracy.earth/)   
-Visualize those ups and downs and come up with a well tempered synthesis    
+Actively contribute to debating clubs to collect ups and downs for approaches like [democracy.earth](https://democracy.earth/)   
+Visualize those ups and downs and come up with a reasonable synthesis    
+
+Personal hint: To leverage debating clubs to a high extend, you might ask the contributors to do one round with intentionally changed roles (the ones with a "pro perspective" shall dive into the "con perspective" & vice versa)   
+
+
