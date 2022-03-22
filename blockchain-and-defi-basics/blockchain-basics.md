@@ -1,4 +1,5 @@
 # Two Key Things to Understand
+Experiencing **1. benefits of decentralization** and **2. how this became reality** is key to get the point of the blockchain technology as distributed ledger technology.  
 
 ## Benefits of Decentralization
 Decentralization improves the probability for fair systems to emerge - due to:    
