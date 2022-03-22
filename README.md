@@ -18,7 +18,7 @@ After your active participation you will be able to leverage your own creativity
 ### Design a Decentralized Autonomous Organisation
 1. Use the coins from the previous task as governance tokens via a decentralized / distributed App (DApp)     
 2. Trigger an example poll  
-3. To which extend would you compare a DAO with a classical stock corporation?   
+3. To which extend would you compare a [DAO](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/blockchain-and-defi-basics/daos.md) with a classical stock corporation?   
 4. Evaluate risks of governance token based DAOs like low voting participation, limited insights, education, expertise as a basis for decision making  
 5. Consider approaches to [improve DAOs](https://www.youtube.com/watch?v=wsoV1WpUYqc)   
 
