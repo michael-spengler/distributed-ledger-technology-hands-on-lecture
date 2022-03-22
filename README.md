@@ -1,7 +1,7 @@
 # Distributed Ledger Technology Hands On Lecture
 **From theory to practice.**  
 This lecture offers the chance to explore many key use cases of the Blockchain Technology as Distributed Ledger Technology.  
-After your active participation you will be able to leverage your own creativity by prototyping key features enabling new business models.  
+After your active participation you will be able to leverage your own creativity by prototyping key features enabling new business models & sustainable public goods.   
 
 ## Exploration Goals
 ### Create Your Own Currency
