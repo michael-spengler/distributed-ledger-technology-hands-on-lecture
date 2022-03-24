@@ -38,3 +38,8 @@ After your active participation you will be able to leverage your own creativity
 1. Explore how a decentralized Gig Economy might work - see also [gitcoin](https://gitcoin.co/)  
 2. Share your evaluations on such an approach 
 
+### Scaling
+Building decentralized scalable systems seems to be an - at least in parts - ongoing challenge. A pretty cool solution approach comes with layer 2 scaling solutions like [Arbitrum](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/blockchain-and-defi-basics/layer-2-scaling.md).  
+1. Share your experiences with scaling solutions in the DeFi space  
+2. [Gamestorm](https://gamestorming.com/) to come up with ideas on which applications / platforms etc. you would develop on - or migrate to - a blockchain based solution if decentralized systems already scaled like crazy :) 
+
