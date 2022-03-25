@@ -9,7 +9,7 @@ Configure your browserwallet - e.g. Metamask.io:
 
 ``` 
 Network Name: Arbitrum Test (Rinkeby as Layer 1)   
-New RPC URL: https://rinkeby.arbitrum.io/rpc  
+RPC URL: https://rinkeby.arbitrum.io/rpc  
 Chain ID: 421611   
 Symbol: ETH   
 Block Explorer URL: https://testnet.arbiscan.io/    
@@ -18,8 +18,8 @@ Block Explorer URL: https://testnet.arbiscan.io/
 ### Arbitrum Mainnet
 ```
 Network Name: Arbitrum  
-New RPC URL: https://arb1.arbitrum.io/rpc  
-Chain ID: 0xa4b1  
+RPC URL: https://arb1.arbitrum.io/rpc  
+Chain ID: 42161  
 Symbol: ETH  
 Block Explorer URL: https://arbiscan.io/  
 ```
