@@ -1,6 +1,6 @@
 # Blockchain Study Community
 The **Blockchain Study Community** is a Decentralized Autonomous Organization (DAO) which was inspired by [DHBW Mannheim](https://www.mannheim.dhbw.de/).  
-Its goal is to connect business- & tech- enthusiasts to prototype revolutionary valuable new business models by leveraging the Blockchain Technology as Distributed Ledger Technology.
+Its goal is to connect business- & tech- enthusiasts to prototype valuable new business models and incentive systems by leveraging the Blockchain Technology as Distributed Ledger Technology.
 
 ## Currently on Hold 
 Each Study Community needs at least one dedicated facilitator. Due to prioritization reasons we have put this topic on hold.  
