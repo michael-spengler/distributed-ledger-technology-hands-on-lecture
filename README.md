@@ -4,7 +4,7 @@
 
 This lecture offers the chance to explore the [Blockchain Technology as Distributed Ledger Technology](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/blockchain-and-defi-basics/blockchain-basics.md).   
 
-After your active participation you will be able to leverage your own creativity by [prototyping key features](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/tree/main/blockchain-development) enabling new business models & sustainable public goods.    
+After your active participation you are able to [prototype key features](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/tree/main/blockchain-development) enabling new business models & sustainable public goods.    
 
 
 ## Exploration Goals
