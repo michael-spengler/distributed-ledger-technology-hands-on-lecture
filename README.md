@@ -38,11 +38,11 @@ After your active participation you will be able to leverage your own creativity
 1. Explore how a decentralized Gig Economy might work - see also [gitcoin](https://gitcoin.co/)  
 2. Share your evaluations on such an approach 
 
-### Incentive Engineering
+### Explore Incentive Engineering / Tokenomics...
 1. Describe how the distributed ledger technology simplifies the definition, deployment and operation of incentive structures
 2. Share your experiences in designing incentive structures
 
-### Scaling
+### Explore Scaling Solutions
 Building decentralized scalable systems seems to be an - at least in parts - ongoing challenge. A pretty cool solution approach comes with layer 2 scaling solutions like [Arbitrum](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/blockchain-and-defi-basics/layer-2-scaling.md).  
 1. Share your experiences with scaling solutions in the DeFi space  
 2. [Gamestorm](https://gamestorming.com/) to come up with ideas on which applications / platforms etc. you would develop on - or migrate to - a blockchain based solution if decentralized systems already scaled like crazy :) 
