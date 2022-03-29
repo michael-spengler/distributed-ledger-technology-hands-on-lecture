@@ -4,7 +4,7 @@
 
 This lecture offers the chance to explore the [Blockchain Technology as Distributed Ledger Technology](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/blockchain-and-defi-basics/blockchain-basics.md).   
 
-After your active participation you are able to [prototype key features](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/tree/main/blockchain-development) enabling new business models & sustainable public goods.    
+After your active participation you can [prototype key features](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/tree/main/blockchain-development) for new business models & sustainable public goods.    
 
 
 ## Exploration Goals
@@ -39,8 +39,9 @@ After your active participation you are able to [prototype key features](https:/
 2. Share your evaluations on such an approach 
 
 ### Explore Incentive Engineering / Tokenomics...
-1. Describe how the distributed ledger technology simplifies the definition, deployment and operation of incentive structures
-2. Share your experiences in designing incentive structures
+1. Describe how the distributed ledger technology simplifies the definition, deployment and operation of incentive structures  
+2. Share your experiences in designing incentive structures  
+3. How would you gamify physical world challenges by implementing incentive structures?   
 
 ### Explore Scaling Solutions
 Building decentralized scalable systems seems to be an - at least in parts - ongoing challenge. A pretty cool solution approach comes with layer 2 scaling solutions like [Arbitrum](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/blockchain-and-defi-basics/layer-2-scaling.md).  
