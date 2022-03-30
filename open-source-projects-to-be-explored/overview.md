@@ -1,4 +1,4 @@
-# Recommendable Open Source Projects in the Web3 Space
+# Essential Open Source Projects in the Web3 Space
 Feel free to add to this list via Pull Request.  
 
 ## GitCoin - Incentivizing Open Source / Public Goods Contributions
