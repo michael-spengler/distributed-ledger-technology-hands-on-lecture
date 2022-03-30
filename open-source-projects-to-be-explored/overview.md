@@ -5,6 +5,10 @@ Feel free to add to this list via Pull Request.
 1. Share your experiences with [GitCoin](https://gitcoin.co/)  
 2. Which issue would you fund right now?  
 
+## ENS.Domains
+1. Share your experiences with [ens.domains](https://ens.domains)  
+2. What are the ups and downs of using a centralized vs. a decentralized domain name system? 
+
 ## Spheron - Simplifying Decentralized CI/CD
 1. Share your experiences with [spheron.network](https://spheron.network)
 2. In which contexts would you consider decentralized CI/CD?
