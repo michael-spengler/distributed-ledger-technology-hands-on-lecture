@@ -22,8 +22,10 @@ Feel free to add to this list via Pull Request.
 2. What are challenges of this approach? How might they be solved?
 
 ## Democracy.Earth
-1. Share your experiences with [democracy.earth](https://democracy.earth/)
-2. What are showstoppers for projects like this?
+1. Explore [this video](https://www.youtube.com/watch?v=kzWuUAvBf8M)   
+2. Share your experiences with [democracy.earth](https://democracy.earth/)  
+3. What are showstoppers or risks for projects like this?  
+4. What would you improve around this project? 
 
 
 
