@@ -13,25 +13,7 @@ app.get("/", function (req, res) {
     res.sendFile(pathToIndexHTML);
 });
 
-const port = Deno.args[0]
+const port = 3024
 
-if (Deno.args[0] === '443') {
+app.listen(port, () => console.log(`server has started on http://localhost:${port} 🚀`))
 
-    // const cert = await Deno.readTextFile(`/etc/letsencrypt/live/openforce.de/fullchain.pem`)
-    // const key = await Deno.readTextFile(`/etc/letsencrypt/live/openforce.de/privkey.pem`)
-
-    const options = {
-        port: Number(Deno.args[0]),
-        certFile: "/etc/letsencrypt/live/enterprise-nft.org/fullchain.pem",
-        keyFile: "/etc/letsencrypt/live/enterprise-nft.org/privkey.pem"
-    }
-
-
-    app.listen(options, () => console.log(`server has started on http://localhost:${Deno.args[0]} 🚀`))
-
-} else {
-
-    // mongodbConnectionString = `mongodb://${mongoUser}:${mongoPW}@localhost:27017`
-    app.listen(Number(Deno.args[0]), () => console.log(`server has started on http://localhost:${Deno.args[0]} 🚀`))
-
-}
