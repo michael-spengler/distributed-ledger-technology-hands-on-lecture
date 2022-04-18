@@ -24,7 +24,9 @@ contract MyToken is ERC20 {
 ```
 
 ## Develop a Voting Smart Contract 
-tbd...
+This Smart Contract should have the following functions:   
+1. submitNewTopicWithOptions(topic, options)   
+2. voteOnTopic(topic, option)  
 
 
 ## Develop a Distributed App (dApp) as Distributed Governance Interface
@@ -38,7 +40,6 @@ You can do so by following the steps ahead.
 ```sh 
 deno run --allow-run --allow-read https://deno.land/x/snel/install.ts
 ```
-
 
 ## Gamestorm on Features and Incentive Systems
 
