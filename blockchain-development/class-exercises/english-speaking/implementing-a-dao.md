@@ -1,6 +1,6 @@
 # Implementing a Decentralized Autonomous Organization
 
-## Develop a Distributed App (dApp) as Distributed Governance Interface
+## Week 1 - Develop a Distributed App (dApp) as Distributed Governance Interface
 Create a distributed App (dApp) allowing users to interact with a smart contract on the Ethereum Blockchain via a Browser Wallet like Metamask.   
 You can do so by following the steps ahead.
 
@@ -16,7 +16,7 @@ deno run --allow-run --allow-read https://deno.land/x/snel/install.ts
 In order to implement the metamask integration you might check [this svelte component](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/blockchain-development/project-skeletons/enterprise-nft-explorer/client/src/components/Connect.svelte).
 
 
-## Develop and Deploy a Smart Contract Representing the Governance Token
+## Week 2 - Develop and Deploy a Smart Contract Representing the Governance Token
 We develop our smart contracts using the programming language [solidity](https://soliditylang.org/).  
 We use [remix.ethereum.org](https://remix.ethereum.org/) as an online IDE to compile, test and deploy our smart contracts.  
 To save gas fees during the development phase we deploy our smart contracts not onto the mainnet but onto the ropsten testnet. 
@@ -39,15 +39,13 @@ contract MyToken is ERC20 {
 
 ```
 
-## Develop a Voting Smart Contract 
+## Week 3 - Develop a Voting Smart Contract 
 This Smart Contract should have the following functions:   
 1. submitNewTopicWithOptions(topic, options)   
 2. voteOnTopic(topic, option)  
 
 
 
-## Gamestorm on Features and Incentive Systems
-
-## Consider Deploying on Arbitrum
+## Week 4 - Gamestorm on Features and Incentive Systems & Consider Deploying on Arbitrum
 
  
