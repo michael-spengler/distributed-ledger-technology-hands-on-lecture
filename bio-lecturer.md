@@ -15,8 +15,8 @@ From 2008 till 2019 I worked for several projects within SAP - e.g. co-developin
 improving several internal and external tools & services like [chatbot services](https://cai.tools.sap/) etc.
 
 ## Lecturer for Web3 @several universities
-Since 2019 I gradually shifted my focus towards being a Web3 developer & Web3 Lecturer.
-In this respect I contributing to many open source projects - mainly in the Ethereum ecosystem. 
+Since 2019 I gradually shifted my focus towards being a Web3 developer & Web3 Lecturer - e.g. at [DHBW Mannheim](https://www.mannheim.dhbw.de/).
+In this respect I contribute to many open source projects - mainly in the Ethereum ecosystem. 
 
 
 
