@@ -43,6 +43,7 @@ contract EnterpriseDAO {
     }
 
     // function voteOnTopic(string memory topic, string memory option) public {
+    // require amount of governance tokes > 0
     //     // tbd
     //     // msg.sender
     //     // msg.value
