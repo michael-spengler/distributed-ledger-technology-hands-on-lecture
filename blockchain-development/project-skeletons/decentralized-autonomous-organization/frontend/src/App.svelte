@@ -1,11 +1,15 @@
 <script>
   import Home from "@/components/Home.svelte";
+  import Connect from "@/components/Connect.svelte";
   import { fade } from "svelte/transition";
 
   let name = "World";
+  let account = "";
+  let provider = "";
 </script>
 
 <main transition:fade>
+  <Connect bind:account bind:provider />
   <Home {name} />
 </main>
 

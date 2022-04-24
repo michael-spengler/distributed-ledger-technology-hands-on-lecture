@@ -7,3 +7,9 @@ After installing snel (see [prerequisites.md](https://github.com/michael-spengle
 ```sh 
 snel create frontend
 ```
+
+## Start Locally
+### Frontend
+```sh
+trex run start
+```
