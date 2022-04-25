@@ -1,4 +1,4 @@
-# Bio Michael Spengler
+# Bio & Philosophie Michael Spengler
 
 I program for money, fairness & freedom.
 
@@ -21,4 +21,8 @@ Since 2019 I gradually shifted my focus towards being a Web3 (distributed web) p
 In this respect I contribute to many open source projects - mainly in the [Ethereum](https://ethereum.org/) and in the [Deno](https://deno.land/) ecosystem. 
 
 
+## Philosophie
+What exacly are we doing [here](https://nineplanets.org/questions/how-many-galaxies-are-there-in-the-universe/)?  
+Zooming in & Zooming Out  
+Centralization vs. Decentralization 
 
