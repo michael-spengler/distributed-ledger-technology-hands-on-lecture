@@ -18,14 +18,14 @@ Until layer 2 scaling solutions like Arbitrum etc. are ready for Volatility Farm
 e.g. via 
 ```sh
 
-deno run --allow-net https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/blockchain-development/project-skeletons/centralized-old-school-volatility-farming/src/start-centralized-vofarming.ts <yourbybitapikey> <yourbybitapisecret> BybitConnector MartingaleReloaded VFLogger 1 20
+deno run --allow-net https://raw.githubusercontent.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/main/blockchain-development/project-skeletons/centralized-old-school-volatility-farming/src/start-centralized-vofarming.ts <yourbybitapikey> <yourbybitapisecret> BybitConnector MartingaleReloaded VFLogger 1 20
 
 ```
 
 or via
 ```sh
 
-pm2 start -n "vofarm-classics-brave" --interpreter="deno" --interpreter-args="run --unstable --allow-net" https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/blockchain-development/project-skeletons/centralized-old-school-volatility-farming/src/start-centralized-vofarming.ts -- <yourbybitapikey> <yourbybitapisecret> BybitConnector BuyLowSellHigh VFLogger 1 20
+pm2 start -n "vofarm-classics-brave" --interpreter="deno" --interpreter-args="run --unstable --allow-net" https://raw.githubusercontent.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/main/blockchain-development/project-skeletons/centralized-old-school-volatility-farming/src/start-centralized-vofarming.ts -- <yourbybitapikey> <yourbybitapisecret> BybitConnector BuyLowSellHigh VFLogger 1 20
 
 ```
 
