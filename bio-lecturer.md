@@ -22,7 +22,8 @@ In this respect I contribute to many open source projects - mainly in the [Ether
 
 
 ## Philosophie
-What exacly are we doing [here](https://nineplanets.org/questions/how-many-galaxies-are-there-in-the-universe/)?  
-Zooming in & Zooming Out  
-Centralization vs. Decentralization 
-
+Do we enjoy the ride on our planet, in our solar system, in our galaxy which seems to be one of [many](https://nineplanets.org/questions/how-many-galaxies-are-there-in-the-universe/) as much as we can?   
+Do we support each others as good as we can?  
+Do we create fairness and freedom as good as we can?   
+As long as people treat each other in unfair ways, transactions of the weak should be private, transactions of the powerful should be public imo.  
+Decentralization leads to fairer systems imo.
