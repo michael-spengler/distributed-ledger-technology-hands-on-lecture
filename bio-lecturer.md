@@ -22,8 +22,11 @@ In this respect I contribute to many open source projects - mainly in the [Ether
 
 
 ## Philosophie
-Do we enjoy the ride on our planet, in our solar system, in our galaxy which seems to be one of [many](https://nineplanets.org/questions/how-many-galaxies-are-there-in-the-universe/) as much as we can?   
-Do we support each others as good as we can?  
-Do we create fairness and freedom as good as we can?   
+### Questions I ask Myself
+Do we enjoy the ride on our planet, in our solar system, in our galaxy - which seems to be one of [many](https://nineplanets.org/questions/how-many-galaxies-are-there-in-the-universe/) - as much as we can?   
+Do we support each other as good as we can?  
+Do we support fairness, health and freedom as good as we can?   
+
+### Assumptions
 Transactions of the weak should be private, transactions of the powerful should be public imo.  
-Decentralization leads to fairer systems imo.
+Decentralization leads to fairer systems imo.  
