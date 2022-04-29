@@ -21,11 +21,12 @@ Since 2019 I gradually shifted my focus towards being a Web3 (distributed web) p
 In this respect I contribute to many open source projects - mainly in the [Ethereum](https://ethereum.org/) and in the [Deno](https://deno.land/) ecosystem. 
 
 
-## Philosophie
+## Philosophy
 ### Questions I ask Myself
 Do we enjoy the ride on our planet, in our solar system, in our galaxy - which seems to be one of [many](https://nineplanets.org/questions/how-many-galaxies-are-there-in-the-universe/) - as much as we can?   
 Do we support each other as good as we can?  
 Do we support fairness, health and freedom as good as we can?   
+What do I want to fire and wire in my brain?  
 
 ### Assumptions
 Transactions of the weak should be private, transactions of the powerful should be public imo.  
