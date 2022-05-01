@@ -97,8 +97,7 @@ export class BuyLowSellHigh extends VoFarmStrategy {
         console.log('spreadFactor:', this.spreadFactor, ' / minPNL:', this.minPNL)
 
         for (const positionInsightsEntry of this.positionInsights) {
-            const side = (positionInsightsEntry.direction === EDirection.LONG) ? 'Buy' : 'Sell'
-            const position = this.fundamentals.positions.filter((e: any) => e.data.symbol === positionInsightsEntry.tradingPair && e.data.side === side)[0]
+            const position = this.fundamentals.positions.filter((e: any) => e.data.symbol === positionInsightsEntry.tradingPair && e.data.side === 'Buy')[0]
             if (position === undefined && this.liquidityLevel > 1) {
                 const text = `we enhance our ${positionInsightsEntry.tradingPair} ${positionInsightsEntry.direction} position to play the game`
                 this.addInvestmentAdvice(Action.BUY, positionInsightsEntry.tradingUnit, positionInsightsEntry.tradingPair, text)
