@@ -35,5 +35,6 @@ Feel free to add to this list via Pull Request.
 3. What are showstoppers or risks for projects like this?  
 4. What would you improve around this project? 
 
-
+## Decentralized News Platform
+... not yet checked in detail: [mastodon](https://mastodon.social/web/home)
 
