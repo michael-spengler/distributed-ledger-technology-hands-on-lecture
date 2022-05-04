@@ -9,7 +9,7 @@ Everyone with free internet access can contribute to build and use the decentral
 Chances for "perfect markets" / "perfect competition"   (instead of oligopolistic markets) to emerge are high.  
 
 ### No Fake Democracy
-As [direct democracies](https://democracy.earth/) become more and more simple to implement due to decentralization in general, it will be increasingly difficult to become and stay a dictator or a politician in an unfair system.  
+As [direct democracies](https://democracy.earth/) become more and more simple to implement due to decentralization in general, it will be increasingly difficult to become and stay a dictator or at least an unfair politician.  
 
 ### No corruption      
 If things are organized in a [direct democracy](https://democracy.earth/) (the power is rather with the people than with single politicians), there is little till no chance for making money by being corrupt  
