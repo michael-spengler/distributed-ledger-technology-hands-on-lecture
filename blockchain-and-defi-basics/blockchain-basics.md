@@ -23,7 +23,7 @@ For smart contract developers it is easy to implement simple and fair incentive 
 
 ## How did this Become Reality?
 Within the [Bitcoin Whitepaper](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/blockchain-and-defi-basics/bitcoin%20whitepaper.pdf) we find a great orchestration of (partly pretty old) conceptual & technological inventions. This orchestration collected and delivered many valuable answers - e.g. on how to [reach consensus](https://www.youtube.com/watch?v=bBC-nXj3Ng4) in a decentralized system (consensus algorithms).    
-With the introduction of the Ethereum Blockchain Vitalik Buterin and his homies brought this approach to a new level when he enabled us to not only store transactions in a distributed way but also programs --> Smart Contracts.    
+With the introduction of the Ethereum Blockchain Vitalik Buterin and his homies brought this approach to a new level when he enabled us to not only store transactions in a distributed way but also individual programs --> Smart Contracts.    
 
 To get the spirit, you might also explore [backgrounds on the genesis block](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/bitcoin-related-fun-facts.md) and on the cypherpunk movement. 
 
