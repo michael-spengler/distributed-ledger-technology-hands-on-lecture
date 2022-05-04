@@ -15,7 +15,7 @@ As [direct democracies](https://democracy.earth/) become more and more simple to
 If things are organized in a [direct democracy](https://democracy.earth/) (the power is rather with the people than with single politicians), there is little till no chance for making money by being corrupt  
 
 ### No propaganda    
-Assuming propaganda is the intentional concealment of valuable perspectives or even the intentional distribution of fake news, decentralized news platforms - following the Hegel principle of **Thesis, Antithesis, Synthesis** with community based governance - leave little to no chance for propaganda 
+Assuming propaganda is the intentional concealment of valuable perspectives or even the intentional distribution of fake news, decentralized news platforms - following the Hegel principle of **Thesis, Antithesis, Synthesis** with community based governance and democratic content moderation - leave little to no chance for propaganda 
 
 ### Simple Incentive Engineering  
 For smart contract developers it is easy to implement simple and fair incentive systems ...  
