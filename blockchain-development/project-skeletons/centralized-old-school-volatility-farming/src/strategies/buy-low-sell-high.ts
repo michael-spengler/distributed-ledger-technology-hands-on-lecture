@@ -81,7 +81,14 @@ export class BuyLowSellHigh extends VoFarmStrategy {
                 } else {
                     this.addInvestmentAdvice(Action.REDUCESHORT, p.data.size, p.data.symbol, 'tidy up')
                 }
+            }
 
+            const lsd = this.getOverallLSD()
+
+            if (lsd < 0) {
+                this.addInvestmentAdvice(Action.BUY, 0.02, 'ETHUSDT', 'overall lsd should not stay < 0')
+            } else if (lsd > (this.fundamentals.accountInfo.result.USDT.equity * 3)) {
+                this.addInvestmentAdvice(Action.SELL, 0.02, 'ETHUSDT', 'overall lsd should not stay that high')
             }
         }
     }
