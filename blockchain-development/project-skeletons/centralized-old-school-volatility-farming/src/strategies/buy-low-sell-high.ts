@@ -56,6 +56,13 @@ export class BuyLowSellHigh extends VoFarmStrategy {
         this.tidyUpPortfolio()
 
 
+        const lsd = this.getOverallLSD()
+
+        if (lsd < 0) {
+            this.addInvestmentAdvice(Action.BUY, 0.01, 'ETHUSDT', 'overall lsd should not stay < 0')
+        } else if (lsd > (this.fundamentals.accountInfo.result.USDT.equity * 3)) {
+            this.addInvestmentAdvice(Action.SELL, 0.01, 'ETHUSDT', 'overall lsd should not stay that high')
+        }
 
         return this.currentInvestmentAdvices
 
@@ -83,13 +90,7 @@ export class BuyLowSellHigh extends VoFarmStrategy {
                 }
             }
 
-            const lsd = this.getOverallLSD()
 
-            if (lsd < 0) {
-                this.addInvestmentAdvice(Action.BUY, 0.02, 'ETHUSDT', 'overall lsd should not stay < 0')
-            } else if (lsd > (this.fundamentals.accountInfo.result.USDT.equity * 3)) {
-                this.addInvestmentAdvice(Action.SELL, 0.02, 'ETHUSDT', 'overall lsd should not stay that high')
-            }
         }
     }
     private enrichPortfolioInsights() {
