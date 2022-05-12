@@ -68,7 +68,7 @@ export class BuyLowSellHigh extends VoFarmStrategy {
 
     private tidyUpPortfolio() {
 
-        const magicTrigger = Math.round(Math.random() * (24 - 12) + 12)
+        const magicTrigger = Math.round(Math.random() * (36 - 12) + 12)
         console.log(`magicTrigger: ${magicTrigger}`)
 
         for (const p of this.fundamentals.positions) {
