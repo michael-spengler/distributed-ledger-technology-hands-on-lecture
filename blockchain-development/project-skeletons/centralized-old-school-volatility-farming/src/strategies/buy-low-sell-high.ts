@@ -1,4 +1,4 @@
-import { Action, EDirection, InvestmentAdvice } from "../../mod.ts"
+import { Action, InvestmentAdvice } from "../../mod.ts"
 import { FinancialCalculator } from "../utilities/financial-calculator.ts"
 import { VFLogger } from "../utilities/logger.ts";
 import { VoFarmStrategy } from "./vofarm-strategy.ts";
@@ -56,11 +56,9 @@ export class BuyLowSellHigh extends VoFarmStrategy {
         this.tidyUpPortfolio()
 
 
-        const lsd = this.getOverallLSD()
-
-        if (lsd < 0) {
+        if (this.overallLSD < 0) {
             this.addInvestmentAdvice(Action.BUY, 0.01, 'ETHUSDT', 'overall lsd should not stay < 0')
-        } else if (lsd > (this.fundamentals.accountInfo.result.USDT.equity * 3)) {
+        } else if (this.overallLSD > (this.fundamentals.accountInfo.result.USDT.equity * 3)) {
             this.addInvestmentAdvice(Action.SELL, 0.01, 'ETHUSDT', 'overall lsd should not stay that high')
         }
 
