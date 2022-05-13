@@ -15,8 +15,10 @@ nftAddressesUnderManagement = [
 
 
 ## Start it Locally
-cd blockchain-development/project-skeletons/enterprise-nft-explorer
+cd blockchain-development/project-skeletons/enterprise-nft-explorer/client
+```sh
 trex run start
+```
 
 
 ## User Stories
