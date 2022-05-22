@@ -1,7 +1,7 @@
 # Is it Fair?
 
 ## CeFi Thrillers
-The CBDC Thriller
+The CBDC Thriller  
 The Gamestop Thriller   
 The Wirecard Thriller   
 The "Chancellor on brink or second bailout for banks" Thriller   
