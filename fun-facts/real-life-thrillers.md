@@ -1,7 +1,7 @@
 # Real Life Thrillers
 
 ## CeFi Thrillers
-The CBDC Thriller   
+The [CBDC / EU trying to replace crypto](https://www.youtube.com/watch?v=UUivXWUoQCY) Thriller    
 The Gamestop Thriller    
 The Wirecard Thriller    
 The [Ban of the Schweizer Bankgeheimnis](https://www.youtube.com/watch?v=TOzWeE3Id2c) Thriller  
