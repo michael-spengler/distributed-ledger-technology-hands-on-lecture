@@ -6,7 +6,7 @@ The Gamestop Thriller
 The Wirecard Thriller    
 The "Chancellor on brink or second bailout for banks" Thriller    
 The Inflation Mystery Thriller    
-The "Ending the Gold Standard" Thriller   
+The ["Ending the Gold Standard"](https://www.youtube.com/watch?v=iRzr1QU6K1o) Thriller     
 The ["Banning Gold for Private Citizens"](https://de.wikipedia.org/wiki/Executive_Order_6102) Thriller   
 ...
 
