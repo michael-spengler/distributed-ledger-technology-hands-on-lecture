@@ -6,7 +6,7 @@ The [CBDC / EU trying to replace crypto](https://www.youtube.com/watch?v=UUivXWU
 The "Gamestop Shares Could no Longer be Bought" Thriller    
 The "Wirecard Could no Longer be Shorted" Thriller    
 The [Ban of the Schweizer Bankgeheimnis](https://www.youtube.com/watch?v=TOzWeE3Id2c) Thriller  
-The "Chancellor on brink or second bailout for banks" Thriller    
+The ["Chancellor on brink or second bailout for banks"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/bitcoin-related-fun-facts.md) Thriller    
 The "Inflation Vector Theory is Kept in the Realm of Mystery" Thriller    
 The ["Ending the Gold Standard"](https://www.youtube.com/watch?v=iRzr1QU6K1o) Thriller     
 The ["Banning Gold for Private Citizens"](https://de.wikipedia.org/wiki/Executive_Order_6102) Thriller   
