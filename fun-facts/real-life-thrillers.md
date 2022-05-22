@@ -1,4 +1,5 @@
 # Real Life Thrillers
+I consider it worthwhile exploring some of the recent real life thrillers playing out because the political sphere tries to mess around with the financial sphere :) 
 
 ## CeFi Thrillers
 The [CBDC / EU trying to replace crypto](https://www.youtube.com/watch?v=UUivXWUoQCY) Thriller    
