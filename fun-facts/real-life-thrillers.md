@@ -4,6 +4,7 @@
 The CBDC Thriller   
 The Gamestop Thriller    
 The Wirecard Thriller    
+The [Ban of the Schweizer Bankgeheimnis](https://www.youtube.com/watch?v=TOzWeE3Id2c) Thriller  
 The "Chancellor on brink or second bailout for banks" Thriller    
 The Inflation Mystery Thriller    
 The ["Ending the Gold Standard"](https://www.youtube.com/watch?v=iRzr1QU6K1o) Thriller     
