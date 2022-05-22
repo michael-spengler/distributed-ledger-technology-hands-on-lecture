@@ -1,4 +1,4 @@
-# Is it Fair?
+# Real Life Thrillers
 
 ## CeFi Thrillers
 The CBDC Thriller   
