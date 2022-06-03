@@ -3,7 +3,7 @@ I consider it worthwhile exploring some of the recent real life thrillers playin
 
 ## CeFi Thrillers
 The [CBDC / EU trying to replace crypto](https://www.youtube.com/watch?v=UUivXWUoQCY) Thriller    
-The "Gamestop Shares Could no Longer be Bought" Thriller    
+The "[Gamestop](https://www.youtube.com/watch?v=On4g1uj71zc) Shares Could no Longer be Bought - Ending the Described Short Squeeze" Thriller    
 The "Wirecard Could no Longer be Shorted" Thriller    
 The [Ban of the Schweizer Bankgeheimnis](https://www.youtube.com/watch?v=TOzWeE3Id2c) Thriller  
 The ["Chancellor on brink or second bailout for banks"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/bitcoin-related-fun-facts.md) Thriller    
