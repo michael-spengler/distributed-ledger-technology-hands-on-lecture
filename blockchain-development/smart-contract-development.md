@@ -62,6 +62,9 @@ contract ExampleSemiFungibleTokenSmartContract is ERC1155, Ownable {
 
 Check it on [wizard.openzeppelin.com](https://wizard.openzeppelin.com/#erc1155)  
 
-## Deep Dives
+## Deep Dives Into Solidity
 ### Numbers in Solidity
 Check [this tutorial](https://www.youtube.com/watch?v=kz4iIS0peMI)  
+
+### Arrays in Solidity
+Check [this tutorial](https://www.youtube.com/watch?v=vTxxCbwMPwo)
