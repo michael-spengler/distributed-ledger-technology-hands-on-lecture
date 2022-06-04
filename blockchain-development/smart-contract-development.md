@@ -8,13 +8,14 @@ For later production ready deployments we use either the Ethereum Mainnet or the
 ### Currencies based on ERC20
 ```sol
 
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.4;
+// SPDX-License-Identifier: AGPL-3.0 license
+pragma solidity ^0.8.2;
 
-import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/release-v4.6/contracts/token/ERC20/ERC20.sol";
 
-contract MyToken is ERC20 {
-    constructor() ERC20("MyToken", "MTK") {
+
+contract FixedSupplyExampleCoinSmartContract is ERC20 {
+    constructor() ERC20("FixedSupplyExampleCoin", "FSEC") {
         _mint(msg.sender, 21000000 * 10 ** decimals());
     }
 }
@@ -25,47 +26,38 @@ Check it on [wizard.openzeppelin.com](https://wizard.openzeppelin.com/)
 
 ### Non Fungible Tokens (NFTs) based on ERC721
 ```sol
+
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.4;
+pragma solidity ^0.8.2;
 
-import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+import "https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v4.5.0/contracts/token/ERC721/ERC721.sol";
 
-contract MyNFT is ERC721 {
-    constructor() ERC721("MyNFT", "MTK") {}
+contract ExampleNFTSmartContract is ERC721 {
+    constructor() ERC721("ExampleNFT", "ENFT") {}
 }
+
 ```
 
 Check it on [wizard.openzeppelin.com](https://wizard.openzeppelin.com/#erc721)  
 
 ### Semi Fungible Tokens (SFTs) based on ERC1155
+
 ```sol
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
-import "@openzeppelin/contracts/token/ERC1155/ERC1155.sol";
-import "@openzeppelin/contracts/access/Ownable.sol";
+import "https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/release-v4.6/contracts/token/ERC1155/ERC1155.sol";
+import "https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/release-v4.6/contracts/access/Ownable.sol";
 
-contract MySemiFungibleToken is ERC1155, Ownable {
-    constructor() ERC1155("") {}
+contract ExampleSemiFungibleTokenSmartContract is ERC1155, Ownable {
+    constructor() ERC1155("https://example-uri...") {}
 
     function setURI(string memory newuri) public onlyOwner {
         _setURI(newuri);
     }
-
-    function mint(address account, uint256 id, uint256 amount, bytes memory data)
-        public
-        onlyOwner
-    {
-        _mint(account, id, amount, data);
-    }
-
-    function mintBatch(address to, uint256[] memory ids, uint256[] memory amounts, bytes memory data)
-        public
-        onlyOwner
-    {
-        _mintBatch(to, ids, amounts, data);
-    }
 }
+
 ```
 
 Check it on [wizard.openzeppelin.com](https://wizard.openzeppelin.com/#erc1155)  
