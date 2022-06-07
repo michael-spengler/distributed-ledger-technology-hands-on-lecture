@@ -3,7 +3,7 @@ I consider it worthwhile exploring some of the recent real life thrillers playin
 
 ## CeFi Thrillers
 The [CBDC / EU trying to replace crypto](https://www.youtube.com/watch?v=UUivXWUoQCY) Thriller    
-The "[Gamestop](https://www.youtube.com/watch?v=On4g1uj71zc) Shares Could no Longer be Bought - Ending the Described Short Squeeze" Thriller    
+The "[Gamestop](https://www.youtube.com/watch?v=On4g1uj71zc) Shares Could no Longer be Bought, the Discord Server & the Subreddit were blocked temporarily - Ending the Short Squeeze"  
 The "Wirecard Could no Longer be Shorted" Thriller    
 The [Ban of the Schweizer Bankgeheimnis](https://www.youtube.com/watch?v=TOzWeE3Id2c) Thriller  
 The ["Chancellor on brink or second bailout for banks"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/bitcoin-related-fun-facts.md) Thriller    
@@ -16,6 +16,13 @@ The [Political vs. Private Money](https://www.youtube.com/watch?v=l7hZjV2rsbQ) T
 ## DeFi Thrillers
 The [Luna UST Thriller](https://www.youtube.com/watch?v=0CutSymg94I)
 ...
+
+## CePo (Centralized Politics) Thrillers
+Julian Assange & Edward Snowden were dismantled because they fought for transparency, fairness and freedom    
+Mainstream Media + most "centralized social media" made politics instead of journalism    
+Structurally installed opportunism gained power over pragmatic idealism    
+Countries did business with system rivals - some of the money from this they used to buy military weapons with which soldiers from both sides were forced to kill each other - both sides believing the propaganda of their corresponding mainstream media     
+
 
 ## The Rise and Rise of the DLT
 [Summary by Charles Hoskinson](https://www.youtube.com/watch?v=nhMwbtzdYcs&t=8s)   
