@@ -19,7 +19,7 @@ The [Luna UST Thriller](https://www.youtube.com/watch?v=0CutSymg94I)
 
 ## CePo (Centralized Politics) Thrillers
 Julian Assange & Edward Snowden were dismantled because they fought for transparency, fairness and freedom    
-Mainstream Media + most "centralized social media" made politics instead of journalism    
+Mainstream Media + most "centralized social media" made politics instead of journalism and platform provisioning with decentralized content moderation    
 Structurally installed opportunism gained power over pragmatic idealism    
 Countries did business with system rivals - some of the money from this they used to buy military weapons with which soldiers from both sides were forced to kill each other - both sides believing the propaganda of their corresponding mainstream media     
 
