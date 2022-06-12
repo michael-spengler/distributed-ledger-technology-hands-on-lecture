@@ -29,4 +29,6 @@ Countries did business with system rivals - some of the money from this they use
 ## The Rise and Rise of the DLT
 [Summary by Charles Hoskinson](https://www.youtube.com/watch?v=nhMwbtzdYcs&t=8s)   
 
+[Anonymous seems to be supporting the cultdao.io](https://twitter.com/wearecultdao/status/1535744177094512640?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1535744177094512640%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2Fwearecultdao2Fstatus2F1535744177094512640widget%3DTweet)  
+
 To get further inside stories, you might check the [coinbureau](https://www.youtube.com/c/CoinBureau), the [bankless](https://www.youtube.com/c/Bankless) and [Patrick Boyle's](https://www.youtube.com/c/PatrickBoyleOnFinance) video channel from time to time.
