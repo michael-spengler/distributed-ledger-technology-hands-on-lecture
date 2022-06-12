@@ -16,4 +16,5 @@ Visualize those ups and downs and come up with a reasonable synthesis
 
 Personal hint: To leverage debating clubs to a high extend, you might ask the contributors to do one round with intentionally changed roles (the ones with a "pro perspective" shall dive into the "con perspective" & vice versa)   
 
-
+## DAO Constitutions
+[ens dao](https://ensdao.eth.link/constitution.pdf)
