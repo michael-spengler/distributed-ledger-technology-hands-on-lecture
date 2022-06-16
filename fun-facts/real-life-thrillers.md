@@ -14,8 +14,12 @@ The [Political vs. Private Money](https://www.youtube.com/watch?v=l7hZjV2rsbQ) T
 ... 
 
 ## DeFi Thrillers
-The [Luna UST Thriller](https://www.youtube.com/watch?v=0CutSymg94I)
+It seems the only DeFi thrillers I know are caused by a lack of decentralization and with that by centralized actors who still had the power to manipulate things in their favour.  
+
+The [Luna UST](https://www.youtube.com/watch?v=0CutSymg94I) Thriller   
+The Manipulators Playing Newcomers out of the Space Thriller   
 ...
+
 
 ## CePo (Centralized Politics) Thrillers
 Julian Assange & Edward Snowden were dismantled because they fought for transparency, fairness and freedom    
