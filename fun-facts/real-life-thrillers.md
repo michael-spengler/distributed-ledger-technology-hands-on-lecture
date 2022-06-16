@@ -30,6 +30,9 @@ Countries did business with system rivals - some of the money from this they use
 ## DePo (Decentralized Politics) Thrillers
 ... none known to me yet - pull requests are welcome ... 
 
+## Solution Space  
+[Fairness](https://github.com/michael-spengler/fairness)   
+
 ## The Rise and Rise of the DLT
 [Summary by Charles Hoskinson](https://www.youtube.com/watch?v=nhMwbtzdYcs&t=8s)   
 
