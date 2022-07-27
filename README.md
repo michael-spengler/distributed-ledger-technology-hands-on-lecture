@@ -7,7 +7,13 @@ This lecture offers the chance to explore the [Blockchain Technology as Distribu
 After your active participation you can [prototype key features](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/tree/main/blockchain-development) for new business models & sustainable public goods.    
 
 
-## Exploration Goals
+## Potential Exploration Goals
+
+### Understand Next Level Decentralized Autonomous Organizations (DAOs)
+From a tokenomics-, community-, technology & value- perspective the [cultdao.io](https://cultdao.io) is the most advanced decentralized autonomous organization.   
+
+When it comes to experiencing distributed ledger technology values and use cases, the [fairness project](https://github.com/michael-spengler/fairness/blob/main/README.md) is an ecosystem project which holds many potential exploration- & contribution opportunities.   
+
 ### Create Your Own Currency
 1. Implement a Smart Contract defining a crypto currency with a fixed supply of 2.000.000 coins - written in [Solidity](https://soliditylang.org/) extending an [ERC20 template](https://wizard.openzeppelin.com/) using the [Remix IDE](https://remix.ethereum.org/)  
 2. Deploy the Smart Contract on the Ethereum Blockchain (ropsten test network)  
