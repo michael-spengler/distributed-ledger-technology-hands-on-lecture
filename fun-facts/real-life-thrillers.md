@@ -1,5 +1,5 @@
 # Real Life Thrillers 
-I consider it worthwhile to explore some of the recent real life thrillers, which are caused by a still centralized political sphere.
+I consider it worthwhile to explore some of the recent real life thrillers, which are caused by the centralized part of the political sphere.
 
 ## Thrillers Which Would Not Be Possible In A Decentralized World
 The "[Gamestop](https://www.youtube.com/watch?v=On4g1uj71zc) Could no Longer be Bought, the Discord Server & the Subreddit were Blocked - Ending the Short Squeeze" Thriller   
