@@ -10,7 +10,7 @@ The [CBDC / EU trying to replace crypto](https://www.youtube.com/watch?v=UUivXWU
 The "Inflation Vector Theory is Kept in the Realm of Mystery" Thriller (... consumerprice- vs. assetinflation)      
 The ["Ending the Gold Standard"](https://www.youtube.com/watch?v=iRzr1QU6K1o) ([see also](https://www.youtube.com/watch?v=2_aGeUvj30Q)) Thriller     
 The ["Banning Gold for Private Citizens"](https://de.wikipedia.org/wiki/Executive_Order_6102) Thriller    
-The ["Criminalizing Privacy"](https://www.youtube.com/watch?v=lJZx8RyeJys) Thriller   
+The ["Criminalizing Privacy"](https://www.youtube.com/watch?v=lJZx8RyeJys) - illustrated by the ["Tornado Cash Ban"](https://www.youtube.com/watch?v=Hw-2zrODTv4) Thriller   
 The centralized political sphere is updating the system via ["soft forks"](https://youtu.be/XW0QZmtbjvs?t=3078) (trying to force anyone to just go along) Thriller   
 The [Political vs. Private Money](https://www.youtube.com/watch?v=l7hZjV2rsbQ) Thriller   
 The [Colonel Roderick Decker](https://youtu.be/j97j3I2XVEg?t=1) vs. [The A-Team](https://www.youtube.com/watch?v=9aRTo5nflCY) Thriller   
