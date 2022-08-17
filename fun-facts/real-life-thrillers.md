@@ -9,7 +9,8 @@ The [Ban of the Schweizer Bankgeheimnis](https://www.youtube.com/watch?v=TOzWeE3
 The ["Chancellor on brink or second bailout for banks"](https://github.com/michael-spengler/distributed-ledger-technology-hands-on-lecture/blob/main/fun-facts/bitcoin-related-fun-facts.md) Thriller    
 The "Inflation Vector Theory is Kept in the Realm of Mystery" Thriller (... consumerprice- vs. assetinflation)      
 The ["Ending the Gold Standard"](https://www.youtube.com/watch?v=iRzr1QU6K1o) ([see also](https://www.youtube.com/watch?v=2_aGeUvj30Q)) Thriller     
-The ["Banning Gold for Private Citizens"](https://de.wikipedia.org/wiki/Executive_Order_6102) Thriller   
+The ["Banning Gold for Private Citizens"](https://de.wikipedia.org/wiki/Executive_Order_6102) Thriller    
+The ["Criminalizing Privacy"](https://www.youtube.com/watch?v=lJZx8RyeJys) Thriller   
 The [Political vs. Private Money](https://www.youtube.com/watch?v=l7hZjV2rsbQ) Thriller   
 The [Colonel Roderick Decker](https://youtu.be/j97j3I2XVEg?t=1) vs. [The A-Team](https://www.youtube.com/watch?v=9aRTo5nflCY) Thriller  
 ... 
