@@ -11,13 +11,14 @@ The "Inflation Vector Theory is Kept in the Realm of Mystery" Thriller (... cons
 The ["Ending the Gold Standard"](https://www.youtube.com/watch?v=iRzr1QU6K1o) ([see also](https://www.youtube.com/watch?v=2_aGeUvj30Q)) Thriller     
 The ["Banning Gold for Private Citizens"](https://de.wikipedia.org/wiki/Executive_Order_6102) Thriller    
 The ["Criminalizing Privacy"](https://www.youtube.com/watch?v=lJZx8RyeJys) Thriller   
+The centralized political sphere is updating the system via ["soft forks"](https://youtu.be/XW0QZmtbjvs?t=3078) (trying to force anyone to just go along) Thriller   
 The [Political vs. Private Money](https://www.youtube.com/watch?v=l7hZjV2rsbQ) Thriller   
 The [Colonel Roderick Decker](https://youtu.be/j97j3I2XVEg?t=1) vs. [The A-Team](https://www.youtube.com/watch?v=9aRTo5nflCY) Thriller   
 The Julian Assange & Edward Snowden were dismantled because they fought for transparency, fairness and freedom Thriller      
 The Mainstream Media + most "social media" made politics instead of [journalism](https://www.youtube.com/watch?v=6CZRPy5Ue9c) and platform provisioning with decentralized content moderation Thriller    
 The "Structurally Installed Opportunism Gained Power Over Pragmatic Idealism" Thriller       
 The "Countries did business with system rivals - some of the money from this they used to buy military weapons with which soldiers from both sides were forced to kill each other - both sides believing the propaganda of their corresponding mainstream media" Thriller     
-The centralized political sphere is updating the system with ["soft forks"](https://youtu.be/XW0QZmtbjvs?t=3078) (trying to force anyone to just go along) Thriller   
+
 
 ... 
 
